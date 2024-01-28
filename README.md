@@ -1,5 +1,5 @@
-**Title:Text Analyzer**
-The text analyzer is an online tool designed to comprehensively analyze web content or any text-based input. It offers various functionalities aimed at providing detailed insights into the structure and characteristics of the text. Let's delve into each of its key features:
+<h3>Title:Text Analyzer</h3>
+The text analyzer is an online tool designed to comprehensively analyze web content or any text-based input. It offers various functionalities aimed at providing detailed insights into the structure and characteristics of the text. Let's delve into each of its key features:<br>
 
 **Word Count:** The text analyzer calculates the total number of words present in the provided text. This metric is useful for understanding the overall length and complexity of the content.
 
